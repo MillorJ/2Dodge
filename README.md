@@ -16,3 +16,4 @@ TODO:
 -change image of F and A grades(make A to a different color, remove border)   DONE  
 -change A color  
 -add high score  
+-add a low score 
